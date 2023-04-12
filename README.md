@@ -1,1 +1,2 @@
-# NotesTemplate
+# My Scripts
+Scripts for myself
